@@ -1,3 +1,2 @@
 # Sample-CV
-First to roadmap
-https://nathan-front.github.io/Sample-CV/
+[My project](https://nathan-front.github.io/Sample-CV/)
